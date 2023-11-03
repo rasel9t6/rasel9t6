@@ -6,6 +6,7 @@ A passionate Front-end developer from Bangladesh.<br><br>🔭 I’m currently wo
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of JavaScript: A Comprehensive Guide.](https://dev.to/rasel9t6/unleashing-the-power-of-javascript-a-comprehensive-guide-360m)
 <!-- BLOG-POST-LIST:END -->
 ---
 
