@@ -1,10 +1,31 @@
-
-[![](https://visitcount.itsvg.in/api?id=rasel9t6&icon=8&color=0)](https://visitcount.itsvg.in)
 ![banner](https://github.com/rasel9t6/rasel9t6/assets/116421413/143199bf-be8c-4f99-81fb-ebdb3732dc58)
 
-
 # 💫 About Me:
-A passionate Front-end developer from Bangladesh.<br><br>🔭 I’m currently working on **[Dev Universe](https://github.com/rasel9t6/dev-universe)** <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning  **DSA(Javascript) , Next Js , Typescript & Shadcn/ui.** <br>💬 Ask me about  **Javascript, React js.** <br>👨‍💻 All of my projects are available at **[Portfolio](https://github.com/rasel9t6)** <br>📝 I regularly write articles on **[dev.to](https://dev.to/rasel9t6)** <br>📫 How to reach me **raselhossen052@outlook.com**<br>📄 Know about my experiences **[RESUME](https://onedrive.live.com/redir?resid=C4EE48FB55784DE4!11929&authkey=!AND2xXcSeuIIF4s&ithint=file%2cpdf&e=5Zpuq7)**
+#### 🚀 Passionate Full-Stack Web Developer | Tech Enthusiast
+
+Hello there! I'm RASEL, a dedicated and skilled full-stack web developer with expertise in Next.js, MongoDB, TypeScript, and JavaScript. My focus is on transforming creative ideas into seamless digital experiences, driven by a belief in the power of technology to simplify, connect, and inspire.
+
+#### 🌐 Tech Stack Mastery
+
+I bring a solid foundation in Next.js, MongoDB, and proficiency in both TypeScript and JavaScript, making me a versatile developer. I enjoy taking on challenges and view each project as an opportunity to expand my skills and contribute to the dynamic world of web development.
+
+#### 🛠️ Collaborative Project Execution
+
+While I may not have entrepreneurial experience, I understand the importance of collaboration and effective communication in project delivery. Working seamlessly within a team and fostering positive communication are essential aspects of my approach to ensure successful outcomes.
+
+#### 📈 Commitment to Continuous Growth
+
+As a perpetual learner, I am committed to continuous growth to stay ahead in the ever-evolving field of web development. My goal is to exceed expectations and deliver results that make a positive impact through technology.
+
+#### 💻 Let's Connect and Collaborate!
+
+If you have a digital vision, let's connect and discuss how we can collaborate to bring it to life. I thrive on turning concepts into tangible, user-centric realities and look forward to exploring opportunities where we can make a positive impact together.
+
+contact:
+
+Email: raselhossen052@outlook.com
+
+Phone: +880 1929681888
 
 ---
 ### Blog posts
@@ -22,9 +43,6 @@ A passionate Front-end developer from Bangladesh.<br><br>🔭 I’m currently wo
 ![](https://github-readme-stats.vercel.app/api?username=rasel9t6&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rasel9t6&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rasel9t6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rasel9t6&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
