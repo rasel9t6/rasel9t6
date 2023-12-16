@@ -1,4 +1,4 @@
-![banner](https://github.com/rasel9t6/rasel9t6/assets/116421413/9c3a1f56-2949-4ce5-a500-5881840f312e)[![](https://visitcount.itsvg.in/api?id=rasel9t6&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rasel9t6&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ![banner](https://github.com/rasel9t6/rasel9t6/assets/116421413/143199bf-be8c-4f99-81fb-ebdb3732dc58)
 
