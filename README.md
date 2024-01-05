@@ -1,7 +1,7 @@
 ![banner](https://github.com/rasel9t6/rasel9t6/assets/116421413/143199bf-be8c-4f99-81fb-ebdb3732dc58)
 
 # 💫 About Me:
-#### 🚀 Passionate Full-Stack Web Developer | Tech Enthusiast
+#### 🚀 Full-Stack Web Developer | Tech Enthusiast
 
 Hello there! I'm RASEL, a dedicated and skilled full-stack web developer with expertise in Next.js, MongoDB, TypeScript, and JavaScript. My focus is on transforming creative ideas into seamless digital experiences, driven by a belief in the power of technology to simplify, connect, and inspire.
 
