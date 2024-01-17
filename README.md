@@ -30,7 +30,7 @@ Phone: +880 1929681888
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [State mutation-এর ভয় করতে হবে জয়... পার্ট - ১](https://dev.to/rasel9t6/state-mutation-er-bhyy-krte-hbe-jyy-paartt-1-4d9b)
+- [State mutation-এর ভয় করতে হবে জয়...](https://dev.to/rasel9t6/state-mutation-er-bhyy-krte-hbe-jyy-paartt-1-4d9b)
 - [Unleashing the Power of JavaScript: A Comprehensive Guide.](https://dev.to/rasel9t6/unleashing-the-power-of-javascript-a-comprehensive-guide-360m)
 <!-- BLOG-POST-LIST:END -->
 ---
