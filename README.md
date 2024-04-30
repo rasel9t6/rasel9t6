@@ -38,6 +38,12 @@ Phone: +880 1929681888
 
 ---
 
+### Projects
+
+- Dev Universe - [live Demo](https://dev-universe.vercel.app/) | [Repository](https://github.com/rasel9t6/dev-universe) | Credentials ( r9t6 | 12345678 )
+- The wild oasis - [live Demo](https://the-wild-oasis-rasel.vercel.app/) | [Repository](https://github.com/rasel9t6/the-wild-oasis) ( test@gmail.com | 12345678 )
+- The wild oasis - [live Demo](https://the-wild-oasis-rasel.vercel.app/) | [Repository](https://github.com/rasel9t6/the-wild-oasis)
+
 ## 🌐 Socials:
 
 [<img alt="Linkedin" src="https://github.com/rasel9t6/rasel9t6/assets/116421413/4c138889-8fda-4508-b881-cd77c4426da3" width="80" height="80" />](https://linkedin.com/in/rasel-9t6)
