@@ -52,7 +52,7 @@ Phone: +880 1929681888
 <details>
   <summary>
     
-    ## 📊 GitHub Stats: (Click to collapse)
+   ## 📊 GitHub Stats: (Click to collapse)
     
   </summary>
 
