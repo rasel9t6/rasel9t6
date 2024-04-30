@@ -42,7 +42,9 @@ Phone: +880 1929681888
 
 - Dev Universe - [live Demo](https://dev-universe.vercel.app/) | [Repository](https://github.com/rasel9t6/dev-universe) | Credentials ( r9t6 | 12345678 )
 - The wild oasis - [live Demo](https://the-wild-oasis-rasel.vercel.app/) | [Repository](https://github.com/rasel9t6/the-wild-oasis) ( test@gmail.com | 12345678 )
-- The wild oasis - [live Demo](https://the-wild-oasis-rasel.vercel.app/) | [Repository](https://github.com/rasel9t6/the-wild-oasis)
+- News Feeder - [live Demo](https://assignment-4-rasel.vercel.app/) | [Repository](https://github.com/rasel9t6/assignment-4)
+- Tasker - [live Demo](https://assignment-3-rasel.vercel.app/) | [Repository](https://github.com/rasel9t6/assignment-3)
+- Book Finder App - [live Demo](https://assignment-2-rasel.vercel.app/) | [Repository](https://github.com/rasel9t6/assignment-2)
 
 ## 🌐 Socials:
 
