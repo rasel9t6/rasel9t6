@@ -1,79 +1,162 @@
+
+
+
+<!-- GitHub Profile README: rasel9t6 -->
+
 <img width="2172" height="724" alt="Github Banner image" src="https://github.com/user-attachments/assets/7b37bb75-2c61-4517-9442-5af270c74855" />
 
+<h1 align="center">Hi, I'm Rasel Hossen 👋</h1>
 
-# 💫 About Me:
-#### 🚀 Full-Stack Web Developer | Tech Enthusiast
+<h3 align="center">
+  Full-Stack Developer → Go & Backend Systems
+</h3>
 
-Hello there! I'm RASEL, a dedicated and skilled full-stack web developer with expertise in Next.js, MongoDB, TypeScript, and JavaScript. My focus is on transforming creative ideas into seamless digital experiences, driven by a belief in the power of technology to simplify, connect, and inspire.
+<p align="center">
+  I build modern web applications with <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>PostgreSQL</strong>,
+  while going deeper into <strong>Go</strong>, backend systems, software architecture, testing, and production operations.
+</p>
 
-#### 🌐 Tech Stack Mastery
-
-I bring a solid foundation in Next.js, MongoDB, and proficiency in both TypeScript and JavaScript, making me a versatile developer. I enjoy taking on challenges and view each project as an opportunity to expand my skills and contribute to the dynamic world of web development.
-
-#### 🛠️ Collaborative Project Execution
-
-While I may not have entrepreneurial experience, I understand the importance of collaboration and effective communication in project delivery. Working seamlessly within a team and fostering positive communication are essential aspects of my approach to ensure successful outcomes.
-
-#### 📈 Commitment to Continuous Growth
-
-As a perpetual learner, I am committed to continuous growth to stay ahead in the ever-evolving field of web development. My goal is to exceed expectations and deliver results that make a positive impact through technology.
-
-#### 💻 Let's Connect and Collaborate!
-
-If you have a digital vision, let's connect and discuss how we can collaborate to bring it to life. I thrive on turning concepts into tangible, user-centric realities and look forward to exploring opportunities where we can make a positive impact together.
-
-contact:
-
-Email: raselhossen052@outlook.com
-
-Phone: +880 1929681888
-
----
-### Blog posts
-
-
-<!-- BLOG-POST-LIST:START -->
-- [📚 Top JavaScript Books to Level Up Your Skills!🚀](https://dev.to/rasel9t6/top-javascript-books-to-level-up-your-skills-3a7)
-- [State mutation-এর ভয় করতে হবে জয়...](https://dev.to/rasel9t6/state-mutation-er-bhyy-krte-hbe-jyy-paartt-1-4d9b)
-- [Unleashing the Power of JavaScript: A Comprehensive Guide.](https://dev.to/rasel9t6/unleashing-the-power-of-javascript-a-comprehensive-guide-360m)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <a href="https://github.com/rasel9t6">
+    <img src="https://img.shields.io/badge/GitHub-rasel9t6-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/rasel-9t6/">
+    <img src="https://img.shields.io/badge/LinkedIn-rasel--9t6-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://rasel-hossen.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-rasel--hossen.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-### Projects
+## About Me
 
-- Dev Universe - [live Demo](https://dev-universe.vercel.app/) | [Repository](https://github.com/rasel9t6/dev-universe) | Credentials ( r9t6 | 12345678 )
-- The wild oasis - [live Demo](https://the-wild-oasis-rasel.vercel.app/) | [Repository](https://github.com/rasel9t6/the-wild-oasis) ( test@gmail.com | 12345678 )
-- News Feeder - [live Demo](https://assignment-4-rasel.vercel.app/) | [Repository](https://github.com/rasel9t6/assignment-4)
-- Tasker - [live Demo](https://assignment-3-rasel.vercel.app/) | [Repository](https://github.com/rasel9t6/assignment-3)
-- Book Finder App - [live Demo](https://assignment-2-rasel.vercel.app/) | [Repository](https://github.com/rasel9t6/assignment-2)
+I'm a self-taught full-stack developer from Chattogram, Bangladesh.
 
-## 🌐 Socials:
+I started my journey with JavaScript, React, Next.js, TypeScript, and full-stack web applications. Now I am focusing deeply on **Go**, **backend systems**, **system design**, **databases**, **testing**, and **production-grade software engineering**.
 
-[<img alt="Linkedin" src="https://github.com/rasel9t6/rasel9t6/assets/116421413/4c138889-8fda-4508-b881-cd77c4426da3" width="80" height="80" />](https://linkedin.com/in/rasel-9t6)
-[<img alt="Discord" src="https://github.com/rasel9t6/rasel9t6/assets/116421413/b28266ac-69c2-4ebc-aaae-8f3b4da8073d" width="80" height="80" />](https://discord.com/users/1075459316133417032)
-[<img alt="Outlook" src="https://github.com/rasel9t6/rasel9t6/assets/116421413/0bd5d636-d7ec-458e-99ea-5d7d07ef7dc3" width="80" height="80" />](mailto:raselhossen052@outlook.com)
-[<img alt="Instagram" src="https://github.com/rasel9t6/rasel9t6/assets/116421413/29f13ec3-f0cf-44c0-8dd0-c529de01e651" width="80" height="80" />](https://instagram.com/rasel_9t6)
-[<img alt="Facebook" src="https://github.com/rasel9t6/rasel9t6/assets/116421413/dba8400d-0fde-4c7a-8ff6-2f7b8dccdb5c" width="80" height="80" />](https://facebook.com/rasel9t6)
-
-## 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-
-<details>
-  <summary>
-    
-   ## 📊 GitHub Stats: (Click to collapse)
-    
-  </summary>
-
-![](https://github-readme-stats.vercel.app/api?username=rasel9t6&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rasel9t6&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rasel9t6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=rasel9t6&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-</details>
+My current flagship open-source project is **The Go Engineer** — a repo-first learning system for mastering Go by building, testing, and operating real software.
 
 ---
 
+## Current Focus
+
+- Building and maintaining **The Go Engineer**
+- Learning and practicing **Go backend engineering**
+- Improving my understanding of **system design and software architecture**
+- Working with **PostgreSQL, APIs, authentication, testing, CI/CD, and observability**
+- Building scalable full-stack applications with **Next.js, TypeScript, Prisma, Supabase, MongoDB, and PostgreSQL**
+
+---
+
+## Flagship Open Source Project
+
+### The Go Engineer
+
+> Learn Go by building, testing, and operating real software.
+
+**The Go Engineer** is my main open-source project. It is designed to help developers move from Go fundamentals to production-shaped backend engineering.
+
+It covers:
+
+- Machine fundamentals and first execution
+- Go language foundations
+- Packages, I/O, CLI tools, and modules
+- HTTP servers, API design, gRPC, and databases
+- Concurrency with goroutines, context, sync, and pipelines
+- Testing, profiling, and benchmarks
+- Architecture, security, production operations, and observability
+- A production-shaped SaaS backend capstone
+
+<p>
+  <a href="https://github.com/rasel9t6/the-go-engineer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rasel9t6&repo=the-go-engineer&theme=github_dark&hide_border=true" alt="The Go Engineer" />
+  </a>
+</p>
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" alt="JavaScript" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Drizzle-111827?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/System_Design-Learning-7C3AED?style=for-the-badge" alt="System Design" />
+</p>
+
+---
+
+## Featured Projects
+
+### Dev Universe
+
+A collaborative developer platform for learning, Q&A, voting, recommendations, badges, filtering, and engagement.
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, MongoDB
+
+- Live: https://devuniverse.com
+- Repository: https://github.com/rasel9t6/dev-universe
+
+### K2B Express
+
+An e-commerce platform with admin dashboard, product management, order tracking, Bkash payment integration, and customer insights.
+
+- Live: https://k2bexpress.com
+
+### Sphereal.ai
+
+A modern SaaS landing page with responsive UI, smooth animations, and performance-focused Next.js architecture.
+
+- Live: https://sphereal.ai
+- Repository: https://github.com/rasel9t6
+
+### NPM Package — Custom Cursor
+
+A package for unique interactive cursor experiences with SSR support.
+
+- Package: https://www.npmjs.com/package/@phazr/custom-cursor
+
+---
+
+## What I'm Learning Now
+
+```txt
+Go              █████████░░  backend, concurrency, context, testing
+System Design   ███████░░░░  architecture, scalability, trade-offs
+PostgreSQL      ███████░░░░  relational modeling, queries, migrations
+Docker          █████░░░░░░  containers, local dev, deployment basics
+Production Ops  █████░░░░░░  logging, observability, CI/CD
