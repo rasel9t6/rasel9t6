@@ -1,4 +1,5 @@
-![banner](https://chatgpt.com/s/m_69f0bffc02d081919d063e40d8346e28)
+<img width="2172" height="724" alt="Github Banner image" src="https://github.com/user-attachments/assets/7b37bb75-2c61-4517-9442-5af270c74855" />
+
 
 # 💫 About Me:
 #### 🚀 Full-Stack Web Developer | Tech Enthusiast
