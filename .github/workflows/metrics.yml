@@ -1,55 +1,99 @@
 name: Metrics
+
 on:
-  # Schedule updates (every 12 hours)
-  schedule: [{cron: "0 */12 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
+    branches: ["main"]
+    paths:
+      - "README.md"
+      - ".github/workflows/metrics.yml"
+
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - name: GitHub Metrics (Stats)
+      - name: Profile overview
         uses: lowlighter/metrics@latest
         with:
-          filename: github-stats.svg
+          filename: metrics/profile-overview.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: rasel9t6
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Dhaka
+          config_animations: yes
+          repositories_forks: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugins_errors_fatal: yes
 
-      - name: GitHub Metrics (Languages)
+      - name: Languages
         uses: lowlighter/metrics@latest
         with:
-          filename: github-languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: rasel9t6
-          template: classic
-          base: ""
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-
-      - name: GitHub Metrics (Achievements & Activity)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-achievements.svg
+          filename: metrics/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: rasel9t6
           template: classic
           base: ""
           config_timezone: Asia/Dhaka
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          config_animations: yes
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_other: yes
+          plugins_errors_fatal: yes
+
+      - name: Contributions calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: rasel9t6
+          template: classic
+          base: ""
+          config_timezone: Asia/Dhaka
+          config_animations: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
+          plugins_errors_fatal: yes
+
+      - name: The Go Engineer repository metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/the-go-engineer.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: swe-labs
+          repo: the-go-engineer
+          template: repository
+          base: header, metadata
+          config_timezone: Asia/Dhaka
+          config_animations: yes
+
+          # Repository language breakdown
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+
+          # Issues / pull requests health
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          # Star growth chart
+          plugin_stargazers: yes
+          plugin_stargazers_days: 60
+          plugin_stargazers_charts_type: classic
+
+          # Repository traffic/views
+          # This requires METRICS_TOKEN to have traffic access to swe-labs/the-go-engineer.
+          plugin_traffic: yes
+
+          # Prevent committing ugly SVGs with visible "Unexpected error" blocks.
+          plugins_errors_fatal: yes
