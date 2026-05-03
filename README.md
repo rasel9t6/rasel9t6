@@ -9,19 +9,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rasel-9t6/">
-    <img src="https://img.shields.io/badge/LinkedIn-rasel--9t6-0A66C2?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-rasel--9t6-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://rasel-hossen.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-rasel--hossen.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-rasel--hossen.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://ko-fi.com/rasel9t6">
-    <img src="https://img.shields.io/badge/Ko--fi-Support%20my%20work-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ko--fi-Support%20my%20work-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
   &nbsp;
   <a href="https://github.com/sponsors/rasel9t6">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
   </a>
 </p>
 
@@ -46,9 +46,21 @@ This is my primary open-source project — a structured progression from Go fund
 - Architecture patterns, security, observability, and CI/CD
 - A production-grade SaaS backend capstone
 
-<a href="https://github.com/rasel9t6/the-go-engineer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rasel9t6&repo=the-go-engineer&theme=tokyonight&hide_border=true&show_owner=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/swe-labs/the-go-engineer">
+    <img src="metrics/the-go-engineer.svg" alt="The Go Engineer repository metrics" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/swe-labs/the-go-engineer">Repository</a>
+  ·
+  <a href="https://github.com/swe-labs/the-go-engineer/blob/main/LEARNING-PATH.md">Learning Path</a>
+  ·
+  <a href="https://github.com/swe-labs/the-go-engineer/blob/main/ARCHITECTURE.md">Architecture</a>
+  ·
+  <a href="https://github.com/swe-labs/the-go-engineer/blob/main/CONTRIBUTING.md">Contributing</a>
+</p>
 
 If you're learning Go and want to follow along, give it a ⭐ and watch the repo.
 
@@ -57,6 +69,7 @@ If you're learning Go and want to follow along, give it a ⭐ and watch the repo
 ## Selected Projects
 
 ### Dev Universe
+
 A collaborative Q&A and developer community platform with voting, badges, content filtering, and recommendations.
 
 **Stack:** Next.js · TypeScript · MongoDB · Tailwind CSS · shadcn/ui  
@@ -66,6 +79,7 @@ A collaborative Q&A and developer community platform with voting, badges, conten
 ---
 
 ### K2B Express
+
 Production e-commerce platform with a full admin dashboard, product and order management, and Bkash payment integration.
 
 **Stack:** Next.js · TypeScript · MongoDB · Tailwind CSS  
@@ -75,6 +89,7 @@ Production e-commerce platform with a full admin dashboard, product and order ma
 ---
 
 ### Sphereal.ai
+
 SaaS landing page built for performance — smooth scroll animations, responsive layout, and optimized Core Web Vitals.
 
 **Stack:** Next.js · TypeScript · Tailwind CSS  
@@ -124,25 +139,16 @@ An npm package for custom interactive cursor experiences with SSR support and ze
 
 ---
 
-## GitHub Stats
+## Engineering Metrics
 
 <p align="center">
-  <img src="github-stats.svg" height="150" />
-  &nbsp;&nbsp;
-  <img src="github-languages.svg" height="150" />
+  <img src="metrics/profile-overview.svg" alt="GitHub profile overview metrics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rasel9t6&theme=github-dark-blue&hide_border=true" />
+  <img src="metrics/languages.svg" alt="Most-used languages" width="49%" />
+  <img src="metrics/contributions.svg" alt="Contribution calendar" width="49%" />
 </p>
-
----
-
-## Professional Achievements & Activity
-
-<div align="center">
-  <img src="github-achievements.svg" alt="Achievements and Activity" width="100%" />
-</div>
 
 ---
 
@@ -162,4 +168,3 @@ If something here is useful to you, consider [buying me a coffee](https://ko-fi.
   <a href="https://ko-fi.com/rasel9t6">Ko-fi</a> · 
   <a href="https://github.com/sponsors/rasel9t6">Sponsor</a>
 </p>
-
