@@ -47,7 +47,7 @@ This is my primary open-source project — a structured progression from Go fund
 - A production-grade SaaS backend capstone
 
 <a href="https://github.com/rasel9t6/the-go-engineer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rasel9t6&repo=the-go-engineer&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rasel9t6&repo=the-go-engineer&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 
 If you're learning Go and want to follow along, give it a ⭐ and watch the repo.
@@ -127,14 +127,22 @@ An npm package for custom interactive cursor experiences with SSR support and ze
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasel9t6&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="github-stats.svg" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasel9t6&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
+  <img src="github-languages.svg" height="150" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rasel9t6&theme=github-dark-blue&hide_border=true" />
 </p>
+
+---
+
+## Professional Achievements & Activity
+
+<div align="center">
+  <img src="github-achievements.svg" alt="Achievements and Activity" width="100%" />
+</div>
 
 ---
 
@@ -154,3 +162,4 @@ If something here is useful to you, consider [buying me a coffee](https://ko-fi.
   <a href="https://ko-fi.com/rasel9t6">Ko-fi</a> · 
   <a href="https://github.com/sponsors/rasel9t6">Sponsor</a>
 </p>
+
